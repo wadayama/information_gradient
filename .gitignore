@@ -95,3 +95,6 @@ dmypy.json
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+
+# Internal verification experiments (not for publication)
+conditional_score/
