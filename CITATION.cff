@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Information Gradient for Nonlinear Gaussian Channels
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tadashi
+    family-names: Wadayama
+    email: wadayama@nitech.ac.jp
+    affiliation: Nagoya Institute of Technology
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/yourusername/information-gradient'
+url: 'https://github.com/yourusername/information-gradient'
+abstract: >-
+  A gradient-based framework for optimizing parametric
+  nonlinear Gaussian channels via mutual information
+  maximization. This implementation leverages the
+  Score-to-Fisher Bridge (SFB) methodology to derive
+  computationally tractable formulas for the information
+  gradient using denoising score matching (DSM) and
+  vector-Jacobian products (VJP).
+keywords:
+  - mutual information
+  - information theory
+  - gradient optimization
+  - score matching
+  - nonlinear channels
+  - semantic communication
+  - information bottleneck
+  - task-oriented communication
+license: MIT
+version: 1.0.0
+date-released: '2024-10-21'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Tadashi
+      family-names: Wadayama
+      email: wadayama@nitech.ac.jp
+      affiliation: Nagoya Institute of Technology
+  title: "Information Gradient for Nonlinear Gaussian Channel with Applications to Task-Oriented Communication"
+  conference:
+    name: "IEEE International Symposium on Information Theory (ISIT)"
+  year: 2025
+  month: 6
