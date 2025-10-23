@@ -72,10 +72,9 @@ uv run python ib_linear_gaussian_task_opt_dsm_both.py
 ## Citation
 
 ```bibtex
-@inproceedings{wadayama2025information,
+@article{wadayama2025information,
   title={Information Gradient for Nonlinear Gaussian Channel with Applications to Task-Oriented Communication},
   author={Wadayama, Tadashi},
-  booktitle={IEEE ISIT},
   year={2025}
 }
 ```

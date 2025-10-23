@@ -36,14 +36,11 @@ license: MIT
 version: 1.0.0
 date-released: '2024-10-21'
 preferred-citation:
-  type: conference-paper
+  type: article
   authors:
     - given-names: Tadashi
       family-names: Wadayama
       email: wadayama@nitech.ac.jp
       affiliation: Nagoya Institute of Technology
   title: "Information Gradient for Nonlinear Gaussian Channel with Applications to Task-Oriented Communication"
-  conference:
-    name: "IEEE International Symposium on Information Theory (ISIT)"
   year: 2025
-  month: 6
